@@ -6,8 +6,9 @@
 // Hoera!
 // ==========================================
 
-
-
+for (let i = 0; i < 3; i++) {
+    console.log('Hoera');
+}
 
 
 // ==========================================
@@ -19,9 +20,6 @@
 // De waarde van i is: 3
 // De waarde van i is: 4
 // ==========================================
-
-
-
 
 
 // ==========================================
@@ -39,9 +37,6 @@
 // ==========================================
 
 
-
-
-
 // ==========================================
 // Opdracht 3b. Gebruik dezelfde for-loop uit 3a, maar log nu de waarde van i vermenigvuldigd met 7.
 // Verwachte uitkomst:
@@ -57,9 +52,6 @@
 // ==========================================
 
 
-
-
-
 // ==========================================
 // Opdracht 3c. Gebruik dezelfde for-loop uit 3b, maar zorg dat de volgende zin wordt gelogd: "Wanneer een hond [x] jaar is, staat dat gelijk aan [y] mensenjaren." Tip: 1 hondenjaar staat gelijk aan 7 mensenjaren.
 // Verwachte uitkomst:
@@ -73,9 +65,6 @@
 // Wanneer een hond 9 jaar is, staat dat gelijk aan 63 mensenjaren.
 // Wanneer een hond 10 jaar is, staat dat gelijk aan 70 mensenjaren.
 // ==========================================
-
-
-
 
 
 // ==========================================
