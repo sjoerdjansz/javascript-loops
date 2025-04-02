@@ -10,7 +10,6 @@ for (let i = 0; i < 3; i++) {
     console.log('Hoera');
 }
 
-
 // ==========================================
 // Opdracht 2. Maak een for-loop die tijdens iedere herhaling de waarde van i logt in de zin: "De waarde van i is [nummer]"
 // Verwachte uitkomst:
@@ -21,6 +20,9 @@ for (let i = 0; i < 3; i++) {
 // De waarde van i is: 4
 // ==========================================
 
+for (let i = 0; i < 5; i++) {
+    console.log(`De waarde van i is: ${i}`);
+}
 
 // ==========================================
 // Opdracht 3a. Maak een for-loop die de waarde van i logt. De loop begint bij 2 (!) en loopt tot en met 10.
