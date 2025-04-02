@@ -89,6 +89,14 @@ for (let i = 2; i <= 10; i++) {
 // .... etc.
 // 15 is oneven
 
+for (let i = 0; i <= 15; i++) {
+    if (i % 2 === 0) {
+        console.log(`${i} is even`)
+    } else {
+        console.log(`${i} is oneven`)
+    }
+}
+
 // Tip 1: Het is mogelijk om beslissingsstructuren te gebruiken binnen de {} van een for-loop!
 // Tip 2: Een getal is EVEN als je het deelt door 2 en er blijft niets over... Doet dit nog geen belletje rinkelen? Google dan eens naar 'MDN webdocs remainder operator'.
 // ==========================================
